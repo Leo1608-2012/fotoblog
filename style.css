@@ -1,0 +1,36 @@
+:root {
+    --main-font: 'Playfair Display', sans-serif;
+    --second-font: 'Ubuntu', sans-serif;
+}
+
+.sit {
+    text-decoration: none;
+    font-family: var(--main-font);
+    color: #7D7D7D;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18.66;
+}
+
+.songs {
+    font-family: var(--second-font);
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16.09;
+    color: #B4AD9E;
+}
+
+article h2 {
+    font-family: var(--main-font);
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    color: #626262;
+}
+
+.defstudio {
+    font-family: var(--main-font);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18.66;
+}
